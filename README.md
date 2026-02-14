@@ -31,19 +31,19 @@ FastAPI, which connects the UI to a machine‑learning pipeline using SentenceTr
 
 
 ## System Architecture
-
--[ Browser UI ]
-    -HTML/CSS + JS/TS
-   -       |
-  -        |  HTTP (JSON)
- -         v
--[ FastAPI Server ]
--    Python + ML pipeline
-   -       |
-  -        v
--[ Models & Data ]
- - pandas / NumPy / NLP / RF
-
+'''
+[ Browser UI ]
+    HTML/CSS + JS/TS
+          |
+          |  HTTP (JSON)
+          v
+[ FastAPI Server ]
+    Python + ML pipeline
+          |
+          v
+[ Models & Data ]
+  pandas / NumPy / NLP / RF
+'''
 
 ## Use Cases & Applications
 
