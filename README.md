@@ -6,16 +6,16 @@ and trend analysis. By leveraging machine learning and historical data, the syst
 
 ---
 
-Table of contents
+## Table of contents
+[Overview](#overview)
+[Tech Stack](#techstack)
 
 
----
 
 ## Overview
 This project was developed for the Pi-Hack-Za Hackathon 24-Hour Build Challenge. The solution is an AI‑driven ITSM assistant where a web frontend (HTML, CSS, JavaScript/TypeScript) lets users upload ticket CSVs and view routing, SLA risk, and duplicate insights. The backend is built with
 FastAPI, which connects the UI to a machine‑learning pipeline using SentenceTransformer embeddings and RandomForest models to analyze tickets and return enriched results plus high‑level trends.
 
----
 
 ## Tech Stack
 
