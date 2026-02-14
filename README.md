@@ -31,7 +31,7 @@ FastAPI, which connects the UI to a machine‑learning pipeline using SentenceTr
 
 
 ## System Architecture
-'''
+```
 [ Browser UI ]
     HTML/CSS + JS/TS
           |
@@ -43,8 +43,7 @@ FastAPI, which connects the UI to a machine‑learning pipeline using SentenceTr
           v
 [ Models & Data ]
   pandas / NumPy / NLP / RF
-'''
-
+```
 ## Use Cases & Applications
 
 -Enterprise IT Support Automation: Automatically classify, prioritize, and route IT tickets to reduce manual triage effort.
