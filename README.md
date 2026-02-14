@@ -23,15 +23,11 @@ FastAPI, which connects the UI to a machine‑learning pipeline using SentenceTr
 
 ## Tech Stack
 
-Frontend: HTML, CSS, JavaScript, TypeScript
-
-Backend: Python, FastAPI, Pydantic
-
-Machine Learning / NLP: scikit‑learn (RandomForest, DBSCAN, LabelEncoder), sentence‑transformers (all‑MiniLM‑L6‑v2), NumPy, pandas
-
-Model Persistence: joblib
-
-Dev / Infra: Uvicorn (ASGI server), CORS middleware for frontend–backend integration
+-Frontend: HTML, CSS, JavaScript, TypeScript
+-Backend: Python, FastAPI, Pydantic
+-Machine Learning / NLP: scikit‑learn (RandomForest, DBSCAN, LabelEncoder), sentence‑transformers (all‑MiniLM‑L6‑v2), NumPy, pandas
+-Model Persistence: joblib
+-Dev / Infra: Uvicorn (ASGI server), CORS middleware for frontend–backend integration
 
 
 ## System Architecture
